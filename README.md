@@ -12,3 +12,13 @@ E-commerce Platforms: Shopify, WooCommerce
 Tools: Git, Figma, Adobe XD, VS Code
 Backend: Node.js, Express.js, REST APIs
 📈 What I Do
+Front-End Development: Bringing designs to life with clean, maintainable code.
+UI/UX Design: Crafting intuitive and engaging digital experiences.
+Shopify Development: Custom themes and functionalities to boost online stores.
+E-ticketing Solutions: Streamlined booking systems for educational institutions.
+VPN Solutions: Implementing secure browsing environments for regions like Pakistan.
+🌐 Let's Connect
+Portfolio 🌐
+LinkedIn 💼
+Twitter 🐦
+Email 📧
