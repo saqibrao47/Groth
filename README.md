@@ -1,4 +1,4 @@
-
+Hi
 About Me
 💻 I specialize in responsive web design and user experience optimization.
 🌐 I have a solid background in Shopify store and theme development.
