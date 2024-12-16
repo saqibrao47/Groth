@@ -9,4 +9,4 @@ Frameworks/Libraries: React, Next.js, Vue.js, Tailwind CSS, Bootstrap
 E-commerce Platforms: Shopify, WooCommerce
 Tools: Git, Figma, Adobe XD, VS Code
 Backend: Node.js, Express.js, REST APIs
-hi
+Updated
